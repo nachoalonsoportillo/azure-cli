@@ -316,6 +316,9 @@
     ],
     "stack-whatif": [
       "azure.cli.command_modules.resource"
+    ],
+    "horizondb": [
+      "azure.cli.command_modules.horizondb"
     ]
   }
 }
